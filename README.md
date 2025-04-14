@@ -20,13 +20,13 @@ On the development side, I specialize in **MERN stack** projects, with a strong 
 - 🧑‍💼 [**Job Portal Application**](https://job-mitra-pgcr.onrender.com/)
   - Full-stack MERN project with JWT authentication, job filtering, profile upload, and employer dashboards.
   
-- 💬 [**Chat App**](https://github.com/Vikzz123/Chat-App)
+- 💬 [**Chat App**](https://github.com/Vikzz123/Chatify)
   - Real-time messaging app with socket.io and authentication.
   
 - 🌦️ [**Weather App**](https://github.com/Vikzz123/weather-app)
   - React + API-based app for live weather search.
   
-- 🧠 [**Parkinson’s Disease Prediction**](https://github.com/Vikzz123/Parkinson-s-Disease-Detection)
+- 🧠 [**Parkinson’s Disease Prediction**](https://github.com/Vikzz123/Parkinson)
   - Machine learning project using Flask and k-NN for medical prediction.
 
 ---
