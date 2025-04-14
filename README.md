@@ -17,7 +17,7 @@ On the development side, I specialize in **MERN stack** projects, with a strong 
 
 ### 🚀 Featured Projects
 
-- 🧑‍💼 [**Job Portal Application**](https://github.com/Vikzz123/Job-Portal-MERN)
+- 🧑‍💼 [**Job Portal Application**](https://job-mitra-pgcr.onrender.com/)
   - Full-stack MERN project with JWT authentication, job filtering, profile upload, and employer dashboards.
   
 - 💬 [**Chat App**](https://github.com/Vikzz123/Chat-App)
