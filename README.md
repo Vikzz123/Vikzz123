@@ -17,7 +17,7 @@ I'm a B.E. graduate in **Electronics and Communication Engineering** with a deep
 - 🧠 Active problem solver with 300+ solved problems on LeetCode & 5⭐ in C++ on HackerRank
 - 🌱 Currently learning **Docker, AWS, Jenkins**, and exploring **Cloud DevOps** practices
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, **DevOps**, or **Software Testing**
-- 📫 Email me at **1dt19ec082vikas@gmail.com**
+- 📫 Email me at **vikaszenithian@gmail.com**
 
 ---
 
@@ -61,7 +61,7 @@ I'm a B.E. graduate in **Electronics and Communication Engineering** with a deep
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vikas-singh-2b8734221/)
 - 💻 [GitHub](https://github.com/Vikzz123)
-- ✉️ Email: 1dt19ec082vikas@gmail.com
+- ✉️ Email: vikaszenithian@gmail.com
 
 ---
 
