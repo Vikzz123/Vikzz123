@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a B.E. graduate in **Electronics and Communication Engineering** with a passion for software engineering and system-level testing. I’ve worked as a Software Test Intern at **Moog India**, where I contributed to projects like **C919 Aircraft** and **Volocopter** by writing and verifying test cases in C using **MATLAB** and **RTRT**, ensuring compliance with **DO-178 B/C** standards.
+I'm a B.E. graduate in **Electronics and Communication Engineering** with a passion for software engineering and system-level testing. I’ve worked as a Software Tester at **Moog India**, where I contributed to projects like **C919 Aircraft** and **Volocopter** by writing and verifying test cases in C using **MATLAB** and **RTRT**, ensuring compliance with **DO-178 B/C** standards.
 
 On the development side, I specialize in **MERN stack** projects, with a strong understanding of scalable architectures, DevOps practices, and modern frontend development.
 
